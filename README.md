@@ -7,7 +7,9 @@ Boot up your Pi and either connect to it with monitor/keyboard/mouse, or with [V
 
 If you haven't gone straight into Terminal, cick on the icon as shown below:
 
-![screen](https://raw.githubusercontent.com/maryannh/sts_pi_controller/master/static/images/screen1.png) }})
+![screen](https://raw.githubusercontent.com/maryannh/sts_pi_controller/master/static/images/screen1.png)
+
+From there you just need to type commands into the window.
 
 You'll need Flask:
 
@@ -22,6 +24,10 @@ curl get.pimoroni.com/explorerhat | bash
 ```
 
 And then you should reboot.
+
+```
+sudo reboot
+```
 
 ## Installing and using the controller
 
