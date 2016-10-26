@@ -3,6 +3,11 @@
 A super simple web app controller for the Pimoroni STS-Pi robot, using Flask and Skeleton. The original has been updated to use symbols instead of words on the controller, and camera on/off buttons have been added.
 
 ## Pre-requisities
+Boot up your Pi and either connect to it with monitor/keyboard/mouse, or with [VNC or SSH](https://www.raspberrypi.org/documentation/remote-access/).
+
+If you haven't gone straight into Terminal, cick on the icon as shown below:
+
+![screen]({{ url_for('static', filename='images/screen1.png') }})
 
 You'll need Flask:
 
