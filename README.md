@@ -44,5 +44,4 @@ cd sts_pi_controller
 sudo python app.py
 ```
 
-The app will now be running on port 80 at the IP address of your Pi. Just
-enter that address in your browser and away you go!
+The app will now be running on port 80 at the IP address of your Pi, which you can find using the iOS or Android app [Fing](https://www.fing.io/). Just enter that address in your browser and away you go!
