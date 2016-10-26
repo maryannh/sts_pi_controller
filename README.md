@@ -7,7 +7,7 @@ Boot up your Pi and either connect to it with monitor/keyboard/mouse, or with [V
 
 If you haven't gone straight into Terminal, cick on the icon as shown below:
 
-![screen]({{ url_for('static', filename='images/screen1.png') }})
+![screen](https://raw.githubusercontent.com/maryannh/sts_pi_controller/master/static/images/screen1.png) }})
 
 You'll need Flask:
 
